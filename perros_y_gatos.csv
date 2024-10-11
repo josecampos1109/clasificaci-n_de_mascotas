@@ -1,0 +1,101 @@
+Especies,Comportamiento,Entrenamiento,Ejercicio,Comunicacion,Habilidades,Cuidado,Tamaño,Cabeza,Vision,Pelaje,Orejas,Cola,Mandibula,Movimiento
+Gato Siamés,Juguetón,fácil,Moderado,Vocal y físico,Inteligente y cazador,Bajo,Pequeño,Triangular,Buena,Corto y suave,Erguidas,Larga y flexible,Pequeña y afilada,Ágil y rápido
+Perro Labrador,Amistoso,fácil,Alto,Vocal,Rescate y perro de terapia,Moderado,Grande,Cuadrada,Muy buena,Corto y denso,Caídas,Media y ancha,Fuerte,Ágil y enérgico
+Gato Persa,Calmado,moderado,Bajo,Silencioso,Buen cazador,Alto,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Corta y peluda,Robusta,Lento
+Perro Beagle,Curioso,moderado,Alto,Vocal,Caza y rastreo,Moderado,Mediano,Larga,Excelente,Corto y áspero,Caídas,Media y larga,Fuerte,Ágil y rápido
+Gato Maine Coon,Juguetón,moderado,Moderado,Vocal y físico,Buen cazador,Moderado,Grande,Cuadrada,Muy buena,Largo y grueso,Erguidas,Larga y peluda,Fuerte,Ágil y elegante
+Perro Bulldog,Calmado, difícil,Bajo,Silencioso,Compañero,Alto,Grande,Ancha,Buena,Corto y suave,Caídas,Corta y gruesa,Fuerte,Lento
+Gato Bengalí,Activo,moderado,Alto,Vocal y físico,Cazar,Moderado,Mediano,Triangular,Buena,Corto y suave,Erguidas,Larga y flexible,Robusta,Ágil y rápido
+Perro Pastor Alemán,Leal,fácil,Alto,Vocal,Guardián,Moderado,Grande,Cuadrada,Muy buena,Corto y denso,Erguidas,Media y ancha,Fuerte,Ágil y enérgico
+Gato Sphynx,Juguetón,moderado,Bajo,Silencioso,Cazador en interiores,Alto,Pequeño,Redonda,Buena,Sin pelaje,Caídas,Corta,Media,Ágil y rápido
+Perro Rottweiler,Protector,moderado,Alto,Vocal,Guardián,Moderado,Grande,Cuadrada,Muy buena,Corto y denso,Caídas,Media y ancha,Fuerte,Ágil y enérgico
+Gato Escocés,Juguetón,fácil,Bajo,Vocal y físico,Buen cazador,Bajo,Mediano,Redonda,Buena,Corto y suave,Caídas,Media y ancha,Robusta,Lento
+Perro Pomerania,Activo,fácil,Moderado,Vocal,Compañero,Bajo,Pequeño,Larga,Buena,Largo y esponjoso,Erguidas,Larga y delgada,Pequeña,Ágil y enérgico
+Gato Abisinio,Juguetón,moderado,Alto,Vocal y físico,Cazar,Moderado,Mediano,Triangular,Buena,Corto y denso,Erguidas,Media y corta,Fuerte,Ágil y rápido
+Perro Dachshund,Juguetón,moderado,Moderado,Vocal,Caza de madrigueras,Moderado,Pequeño,Alargada,Buena,Corto y denso,Caídas,Larga y flexible,Fuerte,Ágil y enérgico
+Gato Ragdoll,Calmado,fácil,Bajo,Silencioso,Buen compañero,Bajo,Grande,Redonda,Buena,Largo y suave,Caídas,Media y gruesa,Robusta,Lento
+Perro Chihuahua,Juguetón,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Alargada,Buena,Corto y suave,Caídas,Corta y delgada,Pequeña,Ágil y rápido
+Gato Británico,Juguetón,moderado,Bajo,Silencioso,Compañero,Moderado,Mediano,Redonda,Buena,Corto y denso,Caídas,Media y corta,Robusta,Lento
+Perro Cocker Spaniel,Amistoso,fácil,Moderado,Vocal,Perro de caza,Moderado,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y flexible,Fuerte,Ágil y enérgico
+Gato Siamés de Pelo Corto,Juguetón,fácil,Moderado,Vocal y físico,Inteligente y cazador,Bajo,Pequeño,Triangular,Buena,Corto y suave,Erguidas,Larga y flexible,Pequeña y afilada,Ágil y rápido
+Perro Schnauzer,Leal,moderado,Alto,Vocal,Guardian,Bajo,Mediano,Cuadrada,Muy buena,Corto y rizado,Caídas,Media y ancha,Fuerte,Ágil y enérgico
+Gato Siberiano,Juguetón,difícil,Moderado,Vocal,Buen cazador,Alto,Mediano,Redonda,Muy buena,Largo y denso,Caídas,Larga y peluda,Robusta,Ágil y enérgico
+Perro Setter Irlandés,Energia alta,fácil,Alto,Vocal,Caza,Moderado,Grande,Larga,Muy buena,Corto y suave,Caídas,Larga y peluda,Fuerte,Ágil y rápido
+Gato Burmese,Cariñoso,fácil,Bajo,Vocal,Buen compañero,Bajo,Mediano,Redonda,Buena,Corto y brillante,Caídas,Corta y flexible,Pequeña,Ágil y rápido
+Perro Shih Tzu,Cariñoso,difícil,Bajo,Vocal,Compañero,Alto,Mediano,Redonda,Buena,Largo y denso,Caídas,Larga y flexible,Robusta,Lento
+Gato Noruego,Juguetón,difícil,Moderado,Vocal,Compañero,Bajo,Grande,Triangular,Muy buena,Largo y denso,Caídas,Larga y peluda,Fuerte,Ágil y elegante
+Perro Basenji,Independiente,difícil,Bajo,Silencioso,Caza,Moderado,Pequeño,Cuadrada,Buena,Corto y suave,Caídas,Corta y delgada,Fuerte,Ágil y rápido
+Gato Himalayo,Calmado,fácil,Bajo,Silencioso,Compañero,Bajo,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y peluda,Robusta,Lento
+Perro Maltés,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Triangular,Buena,Largo y sedoso,Caídas,Larga y delgada,Pequeña,Ágil y rápido
+Gato Manx,Activo,moderado,Bajo,Vocal,Cazar,Moderado,Mediano,Redonda,Buena,Corto y grueso,Caídas,Corta y densa,Robusta,Ágil y rápido
+Perro Akita,Leal,difícil,Alto,Vocal,Protección,Alta,Grande,Cuadrada,Muy buena,Corto y denso,Caídas,Media y ancha,Fuerte,Ágil y fuerte
+Gato Ocicat,Juguetón,fácil,Moderado,Vocal,Inteligente,Bajo,Mediano,Triangular,Buena,Corto y suave,Caídas,Corta y flexible,Fuerte,Ágil y rápido
+Perro Bichón Frisé,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Circular,Buena,Largo y rizado,Caídas,Larga y suave,Pequeña,Ágil y juguetón
+Gato Chartreux,Calmado,fácil,Moderado,Silencioso,Compañero,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Media y flexible,Robusta,Lento
+Perro Pembroke Welsh Corgi,Juguetón,fácil,Moderado,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Corto y suave,Caídas,Corta y gruesa,Robusta,Ágil y enérgico
+Gato Sagrado de Birmania,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y peluda,Robusta,Lento
+Perro Doberman,Protector,fácil,Alto,Vocal,Guardián,Moderado,Grande,Cuadrada,Muy buena,Corto y denso,Caídas,Media y ancha,Fuerte,Ágil y rápido
+Gato Korat,Juguetón,moderado,Bajo,Vocal,Compañero,Bajo,Mediano,Triangular,Buena,Corto y denso,Caídas,Corta y flexible,Pequeña,Ágil y rápido
+Perro Husky Siberiano,Energia alta,difícil,Alto,Vocal,Caza,Moderado,Grande,Cuadrada,Buena,Corto y suave,Caídas,Larga y flexible,Fuerte,Ágil y poderoso
+Gato American Shorthair,Juguetón,fácil,Bajo,Vocal,Buen cazador,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Corta y flexible,Robusta,Ágil y enérgico
+Perro Bulldog Francés,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Circular,Buena,Corto y suave,Caídas,Corta y gruesa,Robusta,Lento
+Gato Devon Rex,Juguetón,fácil,Bajo,Vocal,Joven y travieso,Bajo,Pequeño,Triangular,Buena,Corto y rizado,Caídas,Corta y delgada,Pequeña,Ágil y rápido
+Perro Gran Danés,Energia baja,fácil,Moderado,Vocal,Compañero,Bajo,Grande,Circular,Muy buena,Corto y denso,Caídas,Larga y gruesa,Robusta,Lento
+Perro Basset Hound,Energia baja,difícil,Moderado,Vocal,Caza,Bajo,Mediano,Larga,Buena,Corto y suave,Caídas,Larga y flexible,Robusta,Lento
+Gato Singapura,Juguetón,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Triangular,Buena,Corto y suave,Caídas,Corta y flexible,Pequeña,Ágil y alegre
+Perro Boxer,Juguetón,fácil,Alto,Vocal,Guardián,Bajo,Grande,Circular,Buena,Corto y denso,Caídas,Larga y recta,Fuerte,Ágil y enérgico
+Perro Staffordshire Bull Terrier,Energia alta,fácil,Alto,Vocal,Compañero,Bajo,Mediano,Circular,Buena,Corto y denso,Caídas,Larga y gruesa,Fuerte,Ágil y fuerte
+Gato Ruso Azul,Calmado,fácil,Bajo,Silencioso,Cazador,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Corta y flexible,Robusta,Lento
+Perro Pug,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Redonda,Buena,Corto y suave,Caídas,Corta y dulce,Robusta,Lento
+Gato Abyssinian,Juguetón,moderado,Moderado,Vocal,Cazador,Bajo,Mediano,Triangular,Buena,Corto y suave,Caídas,Media y recta,Fuerte,Ágil y rápido
+Perro Border Collie,Energia alta,fácil,Alto,Vocal,Inteligente,Bajo,Mediano,Circular,Buena,Corto y denso,Caídas,Larga y flexible,Fuerte,Ágil y veloz
+Gato Scottish Fold,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Corto y suave,Caídas,Larga y flexible,Robusta,Lento
+Perro Shiba Inu,Energia moderada,fácil,Moderado,Vocal,Guardián,Bajo,Mediano,Triangular,Muy buena,Corto y denso,Caídas,Larga y recta,Robusta,Ágil y alerta
+Gato Burmese de Pelo Largo,Activo,fácil,Moderado,Vocal,Buen compañero,Bajo,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y flexible,Robusta,Lento
+Perro Vizsla,Juguetón,fácil,Alto,Vocal,Caza,Moderado,Grande,Cuadrada,Buena,Corto y denso,Caídas,Larga y flexible,Fuerte,Ágil y rápido
+Gato Balinés,Juguetón,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y delgada,Robusta,Lento
+Gato Persian,Calmado,moderado,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y peluda,Robusta,Lento
+Gato Scottish Straight,Calmado,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Larga y flexible,Robusta,Lento
+Gato British Shorthair,Calmado,fácil,Bajo,Vocal,Compañero,Bajo,Grande,Redonda,Buena,Corto y denso,Caídas,Corta y ancha,Robusta,Lento
+Gato Exótico de Pelo Corto,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Corta y flexible,Robusta,Lento
+Gato Norwegian Forest,Activo,fácil,Alto,Vocal,Compañero,Bajo,Grande,Triangular,Muy buena,Largo y sedoso,Caídas,Larga y peluda,Robusta,Ágil y enérgico
+Perro Greyhound,Energia baja,fácil,Alto,Vocal,Caza,Moderado,Grande,Circular,Buena,Corto y suave,Caídas,Corta y delgada,Fuerte,Ágil y rápido
+Gato Russian Blue,Calmado,fácil,Bajo,Vocal,Cazador,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Corta y suave,Robusta,Lento
+Gato LaPerm,Juguetón,fácil,Moderado,Vocal,Buen compañero,Bajo,Mediano,Triangular,Buena,Largo y rizado,Caídas,Larga y flexible,Fuerte,Ágil y alegre
+Perro Boston Terrier,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Circular,Buena,Corto y suave,Caídas,Corta y recta,Robusta,Lento
+Gato American Wirehair,Activo,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Triangular,Buena,Corto y rizado,Caídas,Corta y flexible,Robusta,Lento
+Gato Tonkinés,Juguetón,fácil,Moderado,Vocal,Compañero,Bajo,Mediano,Triangular,Buena,Corto y suave,Caídas,Larga y flexible,Robusta,Lento
+Perro Bulldog Inglés,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Circular,Buena,Corto y suave,Caídas,Corta y ancha,Robusta,Lento
+Gato Birmano,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Largo y sedoso,Caídas,Larga y flexible,Robusta,Lento
+Gato Savannah,Juguetón,fácil,Alto,Vocal,Cazador,Bajo,Grande,Triangular,Buena,Corto y denso,Caídas,Larga y flexible,Fuerte,Ágil y rápido
+Perro Bull Terrier,Juguetón,difícil,Alto,Vocal,Compañero,Moderado,Mediano,Cuadrada,Buena,Corto y denso,Caídas,Largo y recto,Fuerte,Ágil y enérgico
+Perro Alaskan Malamute,Energia alta,moderado,Alto,Vocal,Tracción,Bajo,Grande,Circular,Muy buena,Corto y denso,Caídas,Larga y gruesa,Fuerte,Ágil y fuerte
+Gato Cornish Rex,Juguetón,fácil,Moderado,Vocal,Compañero,Bajo,Pequeño,Triangular,Buena,Corto y rizado,Caídas,Larga y delgada,Fuerte,Ágil y activo
+Perro Poodle,Juguetón,fácil,Moderado,Vocal,Habilidades,Bajo,Mediano,Cuadrada,Buena,Largo y rizado,Caídas,Larga y rizada,Fuerte,Ágil y elegante
+Gato American Curl,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Corto y suave,Caídas,Larga y flexible,Robusta,Lento
+Perro Jack Russell Terrier,Energia alta,fácil,Alto,Vocal,Compañero,Bajo,Pequeño,Circular,Buena,Corto y denso,Caídas,Corta y recta,Fuerte,Ágil y veloz
+Gato Munchkin,Juguetón,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Redonda,Buena,Corto y denso,Caídas,Corta y flexible,Robusta,Lento
+Gato Oriental Shorthair,Activa,fácil,Moderado,Vocal,Compañero,Bajo,Mediano,Triangular,Buena,Corto y denso,Caídas,Larga y delgada,Fuerte,Ágil y rápido
+Perro Samoyedo,Amigable,fácil,Alto,Vocal,Guardián,Moderado,Mediano,Cuadrada,Muy buena,Largo y sedoso,Caídas,Larga y esponjosa,Fuerte,Ágil y fuerte
+Gato Japanese Bobtail,Activo,fácil,Moderado,Vocal,Cazador,Bajo,Mediano,Triangular,Buena,Corto y denso,Caídas,Corta y recta,Robusta,Lento
+Perro Setter Inglés,Juguetón,fácil,Alto,Vocal,Caza,Moderado,Grande,Cuadrada,Buena,Largo y sedoso,Caídas,Larga y recta,Robusta,Ágil y elegante
+Perro Affenpinscher,Juguetón,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Circular,Buena,Corto y denso,Caídas,Corta y recta,Robusta,Lento
+Perro Collie,Juguetón,fácil,Alto,Vocal,Caza,Bajo,Grande,Circular,Buena,Largo y sedoso,Caídas,Larga y recta,Robusta,Ágil y veloz
+Gato Exotic Shorthair,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Mediano,Redonda,Buena,Corto y denso,Caídas,Corta y flexible,Robusta,Lento
+Gato Somali,Activo,fácil,Moderado,Vocal,Compañero,Bajo,Mediano,Triangular,Buena,Largo y sedoso,Caídas,Larga y flexible,Robusta,Lento
+Gato Burmés,Cariñoso,fácil,Moderado,Vocal,Compañero,Bajo,Pequeño,Triangular,Buena,Corto y denso,Caídas,Larga y flexible,Robusta,Lento
+Perro Pitbull Americano,Enérgico,difícil,Alto,Vocal,Guardián,Bajo,Mediano,Circular,Buena,Corto y denso,Caídas,Corta y recta,Fuerte,Ágil y fuerte
+Perro Yorkshire Terrier,Cariñoso,fácil,Bajo,Vocal,Compañero,Bajo,Pequeño,Circular,Buena,Largo y sedoso,Caídas,Larga y recta,Robusta,Lento  
+Perro Cocker Spaniel Americano,Amigable,fácil,Moderado,Vocal,Compañero,Bajo,Mediano,Circular,Buena,Largo y sedoso,Caídas,Larga y recta,Robusta,Lento
+Perro San Bernardo,Cariñoso,difícil,Bajo,Vocal,Guardián,Bajo,Grande,Cuadrada,Muy buena,Corto y denso,Caídas,Larga y recta,Fuerte,Lento
+Gato Selkirk Rex,Juguetón,fácil,Moderado,Vocal,Compañero,Bajo,Mediano,Circular,Buena,Rizado,Caídas,Larga y flexible,Robusta,Lento
+Gato Turkish Van,Activo,fácil,Alto,Vocal,Cazador,Bajo,Mediano,Circular,Buena,Largo y sedoso,Caídas,Larga y flexible,Robusta,Lento
+Perro Siberian Husky,Enérgico,difícil,Alto,Vocal,Caza,Moderado,Mediano,Circular,Buena,Corto y denso,Caídas,Larga y flexible,Robusta,Ágil y fuerte
+Perro Dogo Argentino,Leal,difícil,Moderado,Vocal,Guardián,Moderado,Grande,Circular,Buena,Corto y denso,Caídas,Larga y recta,Fuerte,Ágil y fuerte
+Perro Akita Inu,Leal,difícil,Moderado,Vocal,Guardián,Bajo,Grande,Circular,Buena,Corto y denso,Caídas,Larga y recta,Fuerte,Lento
+Perro Doberman Pincher,Inteligente,difícil,Alto,Vocal,Guardián,Moderado,Grande,Circular,Buena,Corto y denso,Caídas,Larga y recta,Fuerte,Ágil y fuerte
+Perro Bullmastiff,Amigable,difícil,Moderado,Vocal,Guardián,Bajo,Grande,Circular,Buena,Corto y denso,Caídas,Larga y recta,Fuerte,Lento
+Perro Parson Russell Terrier,Enérgico,difícil,Alto,Vocal,Caza,Moderado,Pequeño,Circular,Buena,Corto y denso,Caídas,Corta y recta,Fuerte,Ágil y enérgico
+Perro Cáncer de Dogo,Amigable,difícil,Alto,Vocal,Guardián,Bajo,Grande,Circular,Buena,Corto y denso,Caídas,Larga y recta,Lento,Lento
+Gato Tigrado,Independiente,fácil,Moderado,Vocal,Caza,Bajo,Mediano,Triangular,Buena,Corto y denso,Caídas,Larga y flexible,Robusta,Lento
+Gato Pixie-bob,Juguetón,fácil,Moderado,Vocal,Compañero,Bajo,Grande,Triangular,Buena,Corto y denso,Caídas,Larga y flexible,Robusta,Lento

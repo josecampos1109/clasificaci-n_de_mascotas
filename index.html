@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clasificador de Animales</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <h1>Clasificador de Animales</h1>
+    <img id="logo" src="static/logo.jfif" alt="">
+    {% if resultado %}
+        <h2>Resultado de Clasificación</h2>
+        <p>El animal clasificado es: <strong>{{ resultado }}</strong></p>
+        <a href="/">Volver</a>
+    {% else %}
+        <form method="post" action="/">
+            <label for="comportamiento">Comportamiento:</label>
+            <select name="comportamiento">
+                <option value="Juguetón">Juguetón</option>
+                <option value="Amistoso">Amistoso</option>
+                <option value="Calmado">Calmado</option>
+                <option value="Curioso">Curioso</option>
+                <option value="Activo">Activo</option>
+                <option value="Leal">Leal</option>
+                <option value="Protector">Protector</option>
+                <option value="Energia alta">Energía alta</option>
+                <option value="Cariñoso">Cariñoso</option>
+                <option value="Independiente">Independiente</option>
+                <option value="Energia baja">Energía baja</option>
+                <option value="Energia moderada">Energía moderada</option>
+                <option value="Amigable">Amigable</option>
+                <option value="Enérgico">Enérgico</option>
+                <option value="Inteligente">Inteligente</option>
+            </select>
+            <label for="entrenamiento">Entrenamiento:</label>
+            <select name="entrenamiento">
+                <option value="difícil">Difícil</option>
+                <option value="fácil">Fácil</option>
+                <option value="moderado">Moderado</option>
+            </select>
+            <label for="ejercicio">Ejercicio:</label>
+            <select name="ejercicio">
+                <option value="Alto">Alto</option>
+                <option value="Bajo">Bajo</option>
+                <option value="Moderado">Moderado</option>
+            </select>
+            <label for="comunicacion">Comunicación:</label>
+            <select name="comunicacion">
+                <option value="Silencioso">Silencioso</option>
+                <option value="Vocal">Vocal</option>
+                <option value="Vocal y físico">Vocal y físico</option>
+            </select>
+            <label for="habilidades">Habilidades:</label>
+            <select name="habilidades">
+                <option value='Inteligente y cazador'>Inteligente y cazador</option>
+                <option value='Rescate y perro de terapia'>Rescate y perro de terapia</option>
+                <option value='Buen cazador'>Buen cazador</option>
+            </select>
+            <label for="cuidado">Cuidado:</label>
+            <select name="cuidado">
+                <option value="Alto">Alto</option>
+                <option value="Bajo">Bajo</option>
+                <option value="Moderado">Moderado</option>
+            </select>
+            <label for="tamano">Tamaño:</label>
+            <select name="tamano">
+                <option value="Grande">Grande</option>
+                <option value="Mediano">Mediano</option>
+                <option value="Pequeño">Pequeño</option>
+            </select>
+            <label for="cabeza">Cabeza:</label>
+            <select name="cabeza">
+                <option value="Triangular">Triangular</option>
+                <option value="Cuadrada">Cuadrada</option>
+                <option value="Redonda">Redonda</option>
+                <option value="Larga">Larga</option>
+                <option value="Ancha">Ancha</option>
+                <option value="Alargada">Alargada</option>
+                <option value="Circular">Circular</option>
+            </select>
+            <label for="vision">Visión:</label>
+            <select name="vision">
+                <option value="Buena">Buena</option>
+                <option value="Excelente">Excelente</option>
+                <option value="Muy buena">Muy buena</option>
+            </select>
+            <label for="pelaje">Pelaje:</label>
+            <select name="pelaje">
+                <option value="Corto y suave">Corto y suave</option>
+                <option value="Corto y denso">Corto y denso</option>
+                <option value="Largo y sedoso">Largo y sedoso</option>
+                <option value="Corto y áspero">Corto y áspero</option>
+                <option value="Largo y grueso">Largo y grueso</option>
+                <option value="Sin pelaje">Sin pelaje</option>
+                <option value="Largo y esponjoso">Largo y esponjoso</option>
+                <option value="Largo y suave">Largo y suave</option>
+                <option value="Corto y rizado">Corto y rizado</option>
+                <option value="Largo y denso">Largo y denso</option>
+                <option value="Corto y brillante">Corto y brillante</option>
+                <option value="Corto y grueso">Corto y grueso</option>
+                <option value="Largo y rizado">Largo y rizado</option>
+                <option value="Rizado">Rizado</option>
+            </select>
+            <label for="orejas">Orejas:</label>
+            <select name="orejas">
+                <option value="Caídas">Caídas</option>
+                <option value="Erguidas">Erguidas</option>
+            </select>
+            <label for="cola">Cola:</label>
+            <select name="cola">
+                <option value='Larga'>Larga</option>
+                <option value='Corta'>Corta</option>
+                <option value='Media'>Media</option>
+            </select>
+            <label for="mandibula">Mandíbula:</label>
+            <select name="mandibula">
+                <option value="Fuerte">Fuerte</option>
+                <option value="Débil">Débil</option>
+            </select>
+            <label for="movimiento">Movimiento:</label>
+            <select name="movimiento">
+                <option value="Lento">Lento</option>
+                <option value="Rápido">Rápido</option>
+            </select>
+            <input type="submit" value="Clasificar Animal">
+        </form>
+    {% endif %}
+</body>
+
+</html>

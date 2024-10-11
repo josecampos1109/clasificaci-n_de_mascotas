@@ -1,0 +1,116 @@
+/* Estilos generales del cuerpo */
+body {
+    font-family: 'Arial', sans-serif;
+
+    background-image: url(https://www.shutterstock.com/image-vector/dog-seamless-pattern-paws-bones-260nw-2350264459.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+    animation: fadeIn 1s ease-in;
+}
+
+h1 {
+    color: #d742f5;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h2{
+    color: #1abc9c;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#logo {
+    width: 150px; /* Tamaño del logo */
+    height: auto; /* Mantiene la relación de aspecto */
+    border-radius: 50%; /* Borde completamente redondeado (círculo) */
+    border: 4px solid #3498db; /* Borde con color azul */
+    box-shadow: 0px 4px 10px rgba(52, 152, 219, 0.4); /* Sombra sutil */
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out; /* Efectos suaves en hover */
+    margin-bottom: 20px; /* Separación de otros elementos */
+}
+
+#logo:hover {
+    box-shadow: 0px 8px 15px rgba(52, 152, 219, 0.6); /* Sombra más intensa en hover */
+    transform: scale(1.05); /* Aumenta ligeramente el tamaño del logo en hover */
+}
+/* Estilo para el formulario */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-size: 1rem;
+    color: #333;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: 2px solid #3498db;
+    background: linear-gradient(145deg, #ffffff, #e1e1e1);
+    font-size: 1rem;
+    outline: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+select:hover {
+    border-color: #1abc9c;
+    background: linear-gradient(145deg, #e1e1e1, #ffffff);
+    box-shadow: 0px 4px 10px rgba(26, 188, 156, 0.5);
+}
+
+select:focus {
+    border-color: #f39c12;
+    background: linear-gradient(145deg, #fff3e6, #ffe0b3);
+    box-shadow: 0px 4px 10px rgba(243, 156, 18, 0.5);
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background: #3498db;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+    background: #1abc9c;
+}
+
+input[type="submit"]:active {
+    background: #16a085;
+}
+
+/* Enlace para volver */
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #3498db;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #1abc9c;
+}
